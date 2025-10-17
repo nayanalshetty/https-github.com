@@ -1,0 +1,16 @@
+#simple java program
+class example{
+public static void main(String args[])
+[
+System.out.println("This is a simple java program.");
+}}
+
+#simple examples
+class Examples2{
+  public static void main (String args[]){
+  int =100;
+  num=100;
+  System.out,print\n("this is num:"+num);
+  num = num*2;
+   System.out,print\n("the value of num*2 is ");
+   System.out,print\n(num);
