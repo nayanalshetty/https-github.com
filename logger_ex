@@ -1,0 +1,11 @@
+def logger(func):
+def wrapper():
+print(f"function{func_name_}'is being called")
+func()
+return wrapper
+@logger
+def add(a,b):
+print(a+b)
+@logger
+def sub(a,b)
+print(a-b)
