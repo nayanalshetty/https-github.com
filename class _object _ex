@@ -1,0 +1,9 @@
+class car:
+def __init__(self, brand,model):
+self.brand=brand
+self.model=model
+
+def display_info(self):
+print(f"csr brand:{self, brand},model,{self,model}
+my_car=car("tayote","carollo")
+my_car.display_info()
