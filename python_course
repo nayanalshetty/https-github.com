@@ -1,0 +1,7 @@
+try:
+num=int(input("Enter a no":))
+result=10/num
+print("result:",result)zerodivisionerror
+print("csnnt divide by zero")
+except exception:
+print("error")
