@@ -1,0 +1,4 @@
+file=open("data.txt","w")
+file.write(mam...\n)
+file.write("python")
+file.close()
